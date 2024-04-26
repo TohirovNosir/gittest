@@ -1,4 +1,4 @@
-def good('x,y'):
+def good(x,y):
     return f"return me result {x+y}"
 
 
